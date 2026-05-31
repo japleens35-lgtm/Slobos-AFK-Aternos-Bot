@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day": true,
     "place-night": true
   },
   "discord": {
